@@ -6,6 +6,7 @@ CI/CD               |              | Git | gitignore\|gitkeep\|gitattributes | V
 CI/CD               |              | Makefile | makefile\|mk\|makefile.am\|makefile.in | 
 CI/CD               |              | Docker | compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml|
 CI/CD               |              | CMake | cmake\|cmake.txt\|cmakelists.txt\|cmakepresets.json |
+| | | |
 Programing Language |              | JavaScript | js\|cjs\|mjs\|iced\|liticed\|coffee\|litcoffee\|ls\|es\|es6\|jsx\|sjs\|eg\|js.map | 
 Programing Language | Markup       | HTML | html\|htm | 
 Programing Language | Markup       | CSS | css\|scss\|less |
@@ -56,14 +57,20 @@ Programing Language |              | D | d |
 Programing Language |              | Unity | unity\|unityweb\|unitypackage |
 Programing Language |              | APL | apl\|dyalog |
 Programing Language |              | Nim | nim\|nims\|nimble |
-Documents           | Text         | | |
-Documents           | Spreadsheet  | | |
-Documents           | Presentation | | |
-Multimedia          | Images       | 2D | png\|jpg\|jpeg\|svg\|ico\|vda\|avif\|wmf\|emf\|bmp\|xps  |
-Multimedia          | Images       | 3D | stl\|fbx\|dae\|3ds\|blend\|step\|stp\|iges\|igs\|maxc |
+| | | |
+Documents           | Text         | | txt\|prn\|rtf |
+Documents           | Text         | Microsoft Word | doc\|docx\|dotx  |
+Documents           | Presentation | Microsoft PPT | ppt\|pptx |
+| | | |
+Multimedia          | Images       | | |
+Multimedia          | Images       | | |
+Multimedia          | Images       | 2D/3D | iges\|igs |
 Multimedia          | Audio only   | | wma\|asf\|mp3\|wav\|au\|snd\|m4a\|flac\|mp2\|zpl\|gym\|aiff\|aif\|aifc  |
-Multimedia          | Audio/Video  | | |
+Multimedia          | Audio/Video  | Netflix | nfv | Offline Viewing
 Multimedia          | Subtitles    | | srt\|ssa\|nfs |
-Documents           | Text Files   | | |
+Multimedia          | Tool Specific| Adobe | psd\|arai\|ps\|dwt\|indd | Includes Adobe Photoshop, Illustrator, Dreamweaver, and InDesign
+| | |
 Data                |  | | |
+Compressed Files    |  | | |
+Libraries           |  | | |
 Other               |  | | |
