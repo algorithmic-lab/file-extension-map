@@ -6,6 +6,7 @@ CI/CD | | Git | gitignore, gitkeep, gitattributes | Version control system
 CI/CD | | Makefile | makefile, mk, makefile.am, makefile.in | 
 CI/CD | | Docker | compose.yml, compose.yaml, docker-compose.yml, docker-compose.yaml|
 CI/CD | | CMake | cmake, cmake.txt, cmakelists.txt, cmakepresets.json |
+Programing Language | | JavaScript | js\|cjs\|mjs\|iced\|liticed| 
 Programing Language | | Lisp | | 
 Documents | Text | | |
 Documents | Spreadsheet | | |
