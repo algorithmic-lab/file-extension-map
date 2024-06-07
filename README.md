@@ -53,20 +53,35 @@ Programing Language |              | Cobol | cob\|cbl\|pco\|fd\|sel\|cpy |
 Programing Language |              | SAS | sas |
 Programing Language |              | Crystal | cr |
 Programing Language |              | D | d |
-Programing Language |              | Unity | unity\|unityweb\|unitypackage |
+Programing Language |              | Unity | unity\|unityweb\|unitypackage\|unityproj\|unity3d |
 Programing Language |              | APL | apl\|dyalog |
 Programing Language |              | Nim | nim\|nims\|nimble |
-Documents           | Text         | | txt\|prn\|rtf |
-Documents           | Text         | Microsoft Word | doc\|docx\|dotx  |
+Documents           | Text         | Text Files | txt\|prn\|rtf | Simply holds text
+Documents           | Text         | Historical Files | log | Records events with timestamps
+Documents           | Text         | Microsoft Word | doc\|docx\|dotx |
+Documents           | Text         | LaTeX | tex\|bib\|sty\|cls |
+Documents           | Text         | PDF | pdf | 
+Documents           | Text         | Email | msg |
+Documents           | Text         | Encoded | enc |
+Documents           | Text         | Signature | edoc | Electronically Certified Document
+Documents           | Text         | Apple Pages | pages | Word Processor
+Documents           | Text         | OpenDocument | ott\|odt | Template and text
 Documents           | Presentation | Microsoft PPT | ppt\|pptx |
-Multimedia          | Images       | | |
+Multimedia          | Images       | 2D | wmf\|emf\|bmp | Microsoft Images
 Multimedia          | Images       | | |
 Multimedia          | Images       | 2D/3D | iges\|igs |
-Multimedia          | Audio only   | | wma\|asf\|mp3\|wav\|au\|snd\|m4a\|flac\|mp2\|zpl\|gym\|aiff\|aif\|aifc  |
+Multimedia          | Audio only   | | wma\|mp3\|wav\|au\|snd\|m4a\|flac\|mp2\|zpl\|aiff\|aif\|aifc\|midi  |
+Multimedia          | Audio only   | Sega Genesis | gym | Retro Videogames
+Multimedia          | Audio only   | Nintendo 64 | usf\|miniusf | Retro Videogames
 Multimedia          | Audio/Video  | Netflix | nfv | Offline Viewing
 Multimedia          | Subtitles    | | srt\|ssa\|nfs |
 Multimedia          | Tool Specific| Adobe | psd\|arai\|ps\|dwt\|indd | Includes Adobe Photoshop, Illustrator, Dreamweaver, and InDesign
-Data                |  | | |
+Data                | Database     | Microsoft Access | mdb\|accdb | Collecting and sorting data
+Data                | Database     | Netflix | nfi | Structured text file for data purposes
+Data                | Spreadsheet  | Microsoft Excel | xls\|xlsx\|xla\|xlam\|xlsm\|xltx\|xltm\|xlt\|dif |
+Data                | Spreadsheet  | OpenDocument | ods |
 Compressed Files    |  | | |
-Libraries           |  | | |
+Libraries           | Music        | Nintendo 64 | usflib | Retro Videogames
+Configuration       |  | conf\|cfg | |
+Configuration       | Windows      | manifest | Describing the package contents of a Windoes Software Application
 Other               |  | | |
