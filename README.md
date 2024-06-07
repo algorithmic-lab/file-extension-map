@@ -80,12 +80,13 @@ Multimedia          | Audio only   | Sega Genesis | gym | Retro Videogames
 Multimedia          | Audio only   | Nintendo 64 | usf\|miniusf | Retro Videogames
 Multimedia          | Audio/Video  | Netflix | nfv | Offline Viewing
 Multimedia          | Subtitles    | | srt\|ssa\|nfs |
-Multimedia          | Tool Specific| Adobe | psd\|arai\|ps\|dwt\|indd | Includes Adobe Photoshop, Illustrator, Dreamweaver, and InDesign
-Data                | Database     | Microsoft Access | mdb\|accdb | Collecting and sorting data
+Multimedia          | Tool Specific| Adobe | dwt | Dreamweaver
 Data                | Database     | Netflix | nfi | Structured text file for data purposes
 ||||
 Data                | Database     | Microsoft Access | mdb\|accdb |
 Data                | Database     | Microsoft | mdb\|accdb | Access
+Data                | Spreadsheet  | Microsoft | xls\|xlxs\|xlsm | Excel
+Data                | Spreadsheet  | Microsoft Excel | xltx\|xla | Template
 ||||
 Data                | Spreadsheet  | OpenDocument | ods |
 Compressed Files    |  | | |
