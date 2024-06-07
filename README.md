@@ -70,10 +70,10 @@ Documents           | Text         | Apple Pages | pages | Word Processor
 Documents           | Text         | OpenDocument | ott | Template for odt
 Documents           | Text         | OpenDocument | odt | Text for ott
 Documents           | Presentation | Microsoft PPT | ppt\|pptx |
-||||
+|###################|||
 Multimedia          | Images       | 2D | wmf\|emf\|bmp | Microsoft Images
 Multimedia          | Images       | Microsoft | wmf\|emf\|bmp | 2D
-||||
+|###################|||
 Multimedia          | Images       | 2D/3D | iges\|igs |
 Multimedia          | Audio only   | | wma\|mp3\|wav\|au\|snd\|m4a\|flac\|mp2\|zpl\|aiff\|aif\|aifc\|midi  |
 Multimedia          | Audio only   | Sega Genesis | gym | Retro Videogames
@@ -82,12 +82,12 @@ Multimedia          | Audio/Video  | Netflix | nfv | Offline Viewing
 Multimedia          | Subtitles    | | srt\|ssa\|nfs |
 Multimedia          | Tool Specific| Adobe | dwt | Dreamweaver
 Data                | Database     | Netflix | nfi | Structured text file for data purposes
-||||
+|###################|||
 Data                | Database     | Microsoft Access | mdb\|accdb |
 Data                | Database     | Microsoft | mdb\|accdb | Access
 Data                | Spreadsheet  | Microsoft | xls\|xlxs\|xlsm | Excel
 Data                | Spreadsheet  | Microsoft Excel | xltx\|xla | Template
-||||
+|###################|||
 Data                | Spreadsheet  | OpenDocument | ods |
 Compressed Files    |  | | |
 Libraries           | Music        | Nintendo 64 | usflib | Retro Videogames
