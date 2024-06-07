@@ -69,11 +69,8 @@ Documents           | Text         | Signature | edoc | Electronically Certified
 Documents           | Text         | Apple Pages | pages | Word Processor
 Documents           | Text         | OpenDocument | ott | Template for odt
 Documents           | Text         | OpenDocument | odt | Text for ott
-Documents           | Presentation | Microsoft PPT | ppt\|pptx |
-|###################|||
-Multimedia          | Images       | 2D | wmf\|emf\|bmp | Microsoft Images
-Multimedia          | Images       | Microsoft | wmf\|emf\|bmp | 2D
-|###################|||
+Documents           | Presentation | | ppt\|pptx | Microsoft
+Multimedia          | Images       | 2D | wmf\|emf\|bmp | Microsoft
 Multimedia          | Images       | 2D/3D | iges\|igs |
 Multimedia          | Audio only   | | wma\|mp3\|wav\|au\|snd\|m4a\|flac\|mp2\|zpl\|aiff\|aif\|aifc\|midi  |
 Multimedia          | Audio only   | Sega Genesis | gym | Retro Videogames
