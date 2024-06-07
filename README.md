@@ -56,8 +56,10 @@ Programing Language |              | D | d |
 Programing Language |              | Unity | unity\|unityweb\|unitypackage\|unityproj\|unity3d |
 Programing Language |              | APL | apl\|dyalog |
 Programing Language |              | Nim | nim\|nims\|nimble |
-Documents           | Text         | Text Files | txt\|prn\|rtf | Simply holds text
+Documents           | Text         | Plain Text | txt | Simply holds text
+Documents           | Text         | Styled Text | rtf | Supports page formatting
 Documents           | Text         | Historical Files | log | Records events with timestamps
+Documents           | Text         | Historical Files | crash | Apple
 Documents           | Text         | Microsoft Word | doc\|docx\|dotx |
 Documents           | Text         | LaTeX | tex\|bib\|sty\|cls |
 Documents           | Text         | PDF | pdf | 
@@ -65,10 +67,13 @@ Documents           | Text         | Email | msg |
 Documents           | Text         | Encoded | enc |
 Documents           | Text         | Signature | edoc | Electronically Certified Document
 Documents           | Text         | Apple Pages | pages | Word Processor
-Documents           | Text         | OpenDocument | ott\|odt | Template and text
+Documents           | Text         | OpenDocument | ott | Template for odt
+Documents           | Text         | OpenDocument | odt | Text for ott
 Documents           | Presentation | Microsoft PPT | ppt\|pptx |
+||||
 Multimedia          | Images       | 2D | wmf\|emf\|bmp | Microsoft Images
-Multimedia          | Images       | | |
+Multimedia          | Images       | Microsoft | wmf\|emf\|bmp | 2D
+||||
 Multimedia          | Images       | 2D/3D | iges\|igs |
 Multimedia          | Audio only   | | wma\|mp3\|wav\|au\|snd\|m4a\|flac\|mp2\|zpl\|aiff\|aif\|aifc\|midi  |
 Multimedia          | Audio only   | Sega Genesis | gym | Retro Videogames
@@ -78,7 +83,10 @@ Multimedia          | Subtitles    | | srt\|ssa\|nfs |
 Multimedia          | Tool Specific| Adobe | psd\|arai\|ps\|dwt\|indd | Includes Adobe Photoshop, Illustrator, Dreamweaver, and InDesign
 Data                | Database     | Microsoft Access | mdb\|accdb | Collecting and sorting data
 Data                | Database     | Netflix | nfi | Structured text file for data purposes
-Data                | Spreadsheet  | Microsoft Excel | xls\|xlsx\|xla\|xlam\|xlsm\|xltx\|xltm\|xlt\|dif |
+||||
+Data                | Database     | Microsoft Access | mdb\|accdb |
+Data                | Database     | Microsoft | mdb\|accdb | Access
+||||
 Data                | Spreadsheet  | OpenDocument | ods |
 Compressed Files    |  | | |
 Libraries           | Music        | Nintendo 64 | usflib | Retro Videogames
