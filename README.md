@@ -1,7 +1,7 @@
 # file-extension-map
 
-| Category            | Sub Category | Tool/Langauge    | Unique Name         | Extension names                                       | Notes  |
---------------------- | ------------ | ---------------- |-------------------- | ------------------------------------------------------| ------ |
+| Category            | Sub Category | Tool/Langauge    | Unique Name         | Extension names                                       | Notes    |
+--------------------- | ------------ | ---------------- |-------------------- | ------------------------------------------------------| -------- |
 CI/CD                 |              | Git              | Git                 | gitignore\|gitkeep\|gitattributes                     | Version control system |
 CI/CD                 |              | Makefile         | Makefile            | makefile\|mk\|makefile.am\|makefile.in                | |
 CI/CD                 |              | Docker           | Docker              | compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml| |
@@ -85,3 +85,47 @@ Documents             | Calendar     | Calendar         | Calendar            | 
 Documents             | “Markup”     | Active Server    | Active Server Page  | asp\|aspx                                             | |
 Documents             | “Markup”     | Mime HTML        | Mime HTML           | mth\|mhtml                                            | |
 Documents             | “Markup”     | Razor Webpage    | Razor Webpage       | cshtml\|vbhtml                                        | |
+Data                  | Spreadsheets | Microsoft        | Excel               | xls\|xlxs\|xlsm                                       | Workbook |
+Data                  | Spreadsheets | Microsoft        | Excel               | xltx\|xltm                                            | Template |
+Data                  | Spreadsheets | Microsoft        | Excel               | xlam\|xla                                             | Add-ins  |
+Data                  | Spreadsheets | Microsoft        | Excel/Access        | dif                                                   | |
+Data                  | Spreadsheets | OpenDocument     | OpenDoc Spread      | ods                                                   | |
+Data                  | Spreadsheets | Apple            | Apple Numbers       | numbers                                               | |
+Data                  | Database     | Generic          | GenericDB           | dbf                                                   | |
+Data                  | Database     | Apple            | iTunesDB            | itdb                                                  | |
+Data                  | Database     | Apple            | MusicDB             | musicdb                                               | |
+Data                  | Database     | Netflix          | NetflixDB           | nfi                                                   | |
+Data                  | Database     | Microsoft        | Access              | mdb\|accdb                                            | |
+Data                  | Database     | Microsoft        | Project             | mpp                                                   | |
+Data                  | Text Data    | Microsoft        | CSV                 | csv                                                   | |
+Multimedia            | Images       | 2D               | Clipart             | emf\|wmf                                              | Microsoft |
+Multimedia            | Images       | 2D               | SVG                 | svg                                                   | |
+Multimedia            | Images       | 3D               | 3D Models           | gltf\|step\|stp\|stl                                  | |
+Multimedia            | Images       | 2D/3D            | General Log         | log                                                   | |
+Multimedia            | Images       | 2D/3D            | Apple Crash         | crash                                                 | |
+Multimedia            | Audio Only   | Generic          | Sound               | snd                                                   | |
+Multimedia            | Audio Only   | Generic          | WAV                 | wav                                                   | |
+Multimedia            | Audio Only   | Generic          | AIFF                | aif\|aiff\|aifc                                       | |
+Multimedia            | Audio Only   | Generic          | FLAC                | flac                                                  | |
+Multimedia            | Audio Only   | Generic          | MIDI                | midi                                                  | |
+Multimedia            | Audio Only   | Generic          | Audacity            | au                                                    | |
+Multimedia            | Audio Only   | Generic          | MPEG-4              | m4a                                                   | |
+Multimedia            | Audio Only   | Microsoft        | Microsoft Audio     | asf                                                   | |
+Multimedia            | Audio Only   | Games            | Nintendo Music      | miniusf                                               | |
+Multimedia            | Audio Only   | Games            | Sega Music          | gym                                                   | |
+Multimedia            | Video/Audio  | Generic          | MPEG                | mpg\|mpeg                                             | |
+Multimedia            | Video/Audio  | Generic          | Matroska            | mkv                                                   | |
+Multimedia            | Video/Audio  | Google           | GooglePlay          | wvm\|gvi                                              | |
+Multimedia            | Video/Audio  | Apple            | QuickTime           | mov\|qt                                               | |
+Multimedia            | Video/Audio  | Microsoft        |                     | avi                                      | Check this | |
+Multimedia            | Video/Audio  | CRI              | Middleware          | cpk                                                   | |
+Multimedia            | Video/Audio  | Games            | Sega Video          | film_cpk                                              | |
+Multimedia            | Video/Audio  | Netflix          | Offline             | nfv                                                   | |
+Multimedia            | Tools        | Autodesk         | FBX                 | fbx                                                   | |
+Multimedia            | Tools        | Autodesk         | 3D Scene            | 3ds                                                   | |
+Multimedia            | Tools        | Autodesk         | DAE                 | dae                                                   | |
+Multimedia            | Tools        | Autodesk         | MAXC                | maxc                                                  | |
+Multimedia            | Tools        | Subtitles        | General Subtitles   | srt\|ssa                                              | |
+Multimedia            | Tools        | Subtitles        | Netflix Subtitles   | nfs                                                   | |
+Multimedia            | Tools        | Adobe            | Illustrator         | ai                                                    | |
+Multimedia            | Tools        | Adobe            | Dreamweaver         | dwt                                                   | |
