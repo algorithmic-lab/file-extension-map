@@ -1,7 +1,7 @@
 # file-extension-map
 
-| Category            | Sub Category | Tool/Langauge    | Unique Name         | Extension names                                       | Notes    |
---------------------- | ------------ | ---------------- |-------------------- | ------------------------------------------------------| -------- |
+| Category            | Sub Category | Tool/Langauge    | Unique Name         | Extension names                                       | Notes       |
+--------------------- | ------------ | ---------------- |-------------------- | ------------------------------------------------------| ----------- |
 CI/CD                 |              | Git              | Git                 | gitignore\|gitkeep\|gitattributes                     | Version control system |
 CI/CD                 |              | Makefile         | Makefile            | makefile\|mk\|makefile.am\|makefile.in                | |
 CI/CD                 |              | Docker           | Docker              | compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml| |
@@ -53,12 +53,15 @@ Programing Language   |              | Cobol            | Cobol               | 
 Programing Language   |              | SAS              | SAS                 | sas                                                   | |
 Programing Language   |              | Crystal          | Crystal             | cr                                                    | |
 Programing Language   |              | D                | D                   | d                                                     | |
+Programing Language   |              | Kotlin           | Kotlin              | kt\|kt                                                | |
 Programing Language   |              | Unity            | Unity               | unity\|unityweb\|unitypackage\|unityproj\|unity3d     | |
 Programing Language   |              | APL              | APL                 | apl\|dyalog                                           | |
 Programing Language   |              | Nim              | Nim                 | nim\|nims\|nimble                                     | |
+Programing Language   |              | Android          | Android             | aidl                                                  | Java Source Code|
 Documents             | Text         | Plain            | Plain               | txt\|nomedia                                          | |
-Documents             | Text         | Bible            | Bible               | ot                                                    | |
+Documents             | Text         | Plain            | Bible               | ot                                                    | |
 Documents             | Text         | LaTeX            | LaTeX               | tex\|bib\|sty\|cls                                    | |
+Documents             | Text         | Binary           | BIN                 | bin                                                   | |
 Documents             | Text         | Historical       | General Log         | log                                                   | |
 Documents             | Text         | Historical       | HTTP Performance    | har                                                   | |
 Documents             | Text         | Historical       | Apple Crash         | crash                                                 | |
@@ -71,6 +74,7 @@ Documents             | Text         | Processors       | Apple Pages         | 
 Documents             | Text         | Processors       | Microsoft Word      | doc\|docx                                             | |
 Documents             | Message      | Email            | Outlook             | pst\|msg                                              | |
 Documents             | Message      | Email            | Generic Email       | eml                                                   | |
+Documents             | Message      | Email            | Email Attachments   | hqx                                                   | |
 Documents             | Message      | Text Messages    | WhatsApp            | crypt14                                               | |
 Documents             | Presentations| Microsoft        | PowerPoint          | ppt\|pptx                                             | |
 Documents             | Presentations| Google           | Slides              | gslides                                               | |
@@ -127,5 +131,15 @@ Multimedia            | Tools        | Autodesk         | DAE                 | 
 Multimedia            | Tools        | Autodesk         | MAXC                | maxc                                                  | |
 Multimedia            | Tools        | Subtitles        | General Subtitles   | srt\|ssa                                              | |
 Multimedia            | Tools        | Subtitles        | Netflix Subtitles   | nfs                                                   | |
-Multimedia            | Tools        | Adobe            | Illustrator         | ai                                                    | |
+Multimedia            | Tools        | Adobe            | Illustrator         | ai\|ps                                                | |
 Multimedia            | Tools        | Adobe            | Dreamweaver         | dwt                                                   | |
+Compressed Files      |              | Zipped           | ZIP                 | zip                                                   | |
+Compressed Files      |              | Zipped           | GNU                 | gzip\|gz                                              | |
+Compressed Files      |              | Tar              | TAR                 | tar                                                   | |
+Libraries             | Dynamic Lib  | Dynamic Lib      | Dynamic Lib         | dll\|dylib                                            | |
+Libraries             | Music Lib    | Game Music Lib   | Nintendo Music Lib  | usflib                                                | |
+Libraries             | Music Lib    | Music Lib        | Apple Music Lib     | musiclibrary                                          | |
+Other                 | IDE          | Intellisense     | IPCH                | ipch                                                  | |
+Other                 | Resoures     | Microsoft        | RC                  | rc                                                    | |
+Other                 | Resoures     | Microsoft        | RES                 | res                                                   | |
+Other                 | Executables  | Exexcutables     | EXE                 | exe                                                   | | 
