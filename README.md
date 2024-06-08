@@ -140,6 +140,6 @@ Libraries             | Dynamic Lib  | Dynamic Lib      | Dynamic Lib         | 
 Libraries             | Music Lib    | Game Music Lib   | Nintendo Music Lib  | usflib                                                | |
 Libraries             | Music Lib    | Music Lib        | Apple Music Lib     | musiclibrary                                          | |
 Other                 | IDE          | Intellisense     | IPCH                | ipch                                                  | |
-Other                 | Resoures     | Microsoft        | RC                  | rc                                                    | |
-Other                 | Resoures     | Microsoft        | RES                 | res                                                   | |
+Other                 | Resources    | Microsoft        | RC                  | rc                                                    | |
+Other                 | Resources    | Microsoft        | RES                 | res                                                   | |
 Other                 | Executables  | Exexcutables     | EXE                 | exe                                                   | | 
