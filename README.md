@@ -106,7 +106,6 @@ Multimedia            | Images       | 2D               | Clipart             | 
 Multimedia            | Images       | 2D               | SVG                 | svg                                                   | |
 Multimedia            | Images       | 3D               | 3D Models           | gltf\|step\|stp\|stl                                  | |
 Multimedia            | Images       | 2D/3D            | General Log         | log                                                   | |
-Multimedia            | Images       | 2D/3D            | Apple Crash         | crash                                                 | |
 Multimedia            | Audio Only   | Generic          | Sound               | snd                                                   | |
 Multimedia            | Audio Only   | Generic          | WAV                 | wav                                                   | |
 Multimedia            | Audio Only   | Generic          | AIFF                | aif\|aiff\|aifc                                       | |
