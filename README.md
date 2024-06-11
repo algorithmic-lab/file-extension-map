@@ -105,7 +105,6 @@ Data                  | Text Data    | Microsoft        | CSV                 | 
 Multimedia            | Images       | 2D               | Clipart             | emf\|wmf                                              | Microsoft |
 Multimedia            | Images       | 2D               | SVG                 | svg                                                   | |
 Multimedia            | Images       | 3D               | 3D Models           | gltf\|step\|stp\|stl                                  | |
-Multimedia            | Images       | 2D/3D            | General Log         | log                                                   | |
 Multimedia            | Audio Only   | Generic          | Sound               | snd                                                   | |
 Multimedia            | Audio Only   | Generic          | WAV                 | wav                                                   | |
 Multimedia            | Audio Only   | Generic          | AIFF                | aif\|aiff\|aifc                                       | |
