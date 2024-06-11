@@ -6,75 +6,77 @@ CI/CD                 |              | Git              | Git                 | 
 CI/CD                 |              | Makefile         | Makefile            | makefile\|mk\|makefile.am\|makefile.in                | |
 CI/CD                 |              | Docker           | Docker              | compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml| |
 CI/CD                 |              | CMake            | CMake               | cmake\|cmake.txt\|cmakelists.txt\|cmakepresets.json   | |
-Programing Language   |              | JavaScript       | JavaScript          | js\|cjs\|mjs\|iced\|liticed\|coffee\|litcoffee\|ls\|es\|es6\|jsx\|sjs\|eg\|js.map | |
-Programing Language   | Markup       | HTML             | HTML                | html\|htm                                             | |
-Programing Language   | Markup       | CSS              | CSS                 | css\|scss\|less                                       | |
-Programing Language   |              | Python           | Python              | py\|py3\|pyo\|pyx\|pyw\|whl\|pyd                      | |
-Programing Language   |              | SQL              | SQL                 | sql\|sqllite\|sqllite3\|mysql                         | |
-Programing Language   |              | TypeScript       | TypeScript          | ts\|tsx                                               | |
-Programing Language   |              | Bash/Shell       | Bash/Shell          | sh\|zsh\|bash\|profile\|bashrc\|zshrc                 | |
-Programing Language   |              | Java             | Java                | java\|iml\|jar\|dpj\|xrb\|aidl                        | |
-Programing Language   |              | C#               | C#                  | cs\|csproj                                            | |
-Programing Language   |              | C++              | C++                 | cpp\|cxx\|cc\|hpp\|hxx                                | |
-Programing Language   |              | C                | C                   | c\|h                                                  | |
-Programing Language   |              | PHP              | PHP                 | php                                                   | |
-Programing Language   |              | PowerShell       | PowerShell          | psl                                                   | |
-Programing Language   |              | Go               | Go                  | go                                                    | |
-Programing Language   |              | Rust             | Rust                | rs\|rlib\|rst                                         | |
-Programing Language   |              | Kotlin           | Kotlin              | kt\|kts\|ktm                                          | |
-Programing Language   |              | Ruby             | Ruby                | rb\|erb\|gem\|gemspec                                 | |
-Programing Language   |              | Lua              | Lua                 | lua                                                   | |
-Programing Language   |              | Dart             | Dart                | dart                                                  | |
-Programing Language   |              | Assembly         | Assembly            | asm                                                   | |
-Programing Language   |              | Swift            | Swift               | swift                                                 | |
-Programing Language   |              | R                | R                   | Rd\|Rr\|Rprofile\|Rdata\|Rhistory\|Rproj\|NAMESPACE\|DESCRIPTION | |
-Programing Language   |              | Visual Basic     | Visual Basic        | vb\|bas\|cls                                          | |
-Programing Language   |              | MATLAB           | MATLAB              | M\|MAT                                                | |
-Programing Language   |              | Groovy           | Groovy              | groovy\|gvy\|gy\|gsh                                  | |
-Programing Language   |              | Delphi           | Delphi              | pas                                                   | |
-Programing Language   |              | Scala            | Scala               | scala                                                 | |
-Programing Language   |              | Perl             | Perl                | pl                                                    | |
-Programing Language   |              | Elixir           | Elixir              | ex                                                    | |
-Programing Language   |              | Objective-C      | Objective-C         | m\|mm                                                 | |
-Programing Language   |              | Haskell          | Haskell             | hs\|lhs                                               | |
-Programing Language   |              | GDScript         | GDScript            | gd                                                    | |
-Programing Language   |              | Lisp             | Lisp                | el\|lisp\|elc                                         | |
-Programing Language   |              | Solidity         | Solidity            | sol                                                   | |
-Programing Language   |              | Clojure          | Clojure             | cljs\|cljc\|clj                                       | |
-Programing Language   |              | Julia            | Julia               | jl                                                    | |
-Programing Language   |              | Erlang           | Erlang              | erl                                                   | |
-Programing Language   |              | F#               | F#                  | fsx                                                   | |
-Programing Language   |              | Fortran          | Fortran             | f[hi]\|[fF]\|[fF]77\|[fF]9[0-9]\|fortran\|forth       | |
-Programing Language   |              | Zig              | Zig                 | zig                                                   | |
-Programing Language   |              | Ada              | Ada                 | ad[abs]                                               | |
-Programing Language   |              | OCaml            | OCaml               | aug\|mli\|ml\|aug                                     | |
-Programing Language   |              | Apex             | Apex                | apex                                                  | |
-Programing Language   |              | Cobol            | Cobol               | cob\|cbl\|pco\|fd\|sel\|cpy                           | |
-Programing Language   |              | SAS              | SAS                 | sas                                                   | |
-Programing Language   |              | Crystal          | Crystal             | cr                                                    | |
-Programing Language   |              | D                | D                   | d                                                     | |
-Programing Language   |              | Kotlin           | Kotlin              | kt\|kt                                                | |
-Programing Language   |              | Unity            | Unity               | unity\|unityweb\|unitypackage\|unityproj\|unity3d     | |
-Programing Language   |              | APL              | APL                 | apl\|dyalog                                           | |
-Programing Language   |              | Nim              | Nim                 | nim\|nims\|nimble                                     | |
-Programing Language   |              | Android          | Android             | aidl                                                  | Java Source Code|
-Documents             | Text         | Plain            | Plain               | txt\|nomedia                                          | |
-Documents             | Text         | Plain            | Bible               | ot                                                    | |
-Documents             | Text         | LaTeX            | LaTeX               | tex\|bib\|sty\|cls                                    | |
-Documents             | Text         | Binary           | BIN                 | bin                                                   | |
-Documents             | Text         | Historical       | General Log         | log                                                   | |
-Documents             | Text         | Historical       | HTTP Performance    | har                                                   | |
-Documents             | Text         | Historical       | Apple Crash         | crash                                                 | |
-Documents             | Text         | Styled           | RTF                 | rtf                                                   | |
-Documents             | Text         | Instruction      | Print to File       | prn                                                   | |
-Documents             | Text         | Certified Doc    | EDOC                | edoc                                                  | |
-Documents             | Text         | Processors       | OpenDoc Text        | ott\|odt                                              | |
-Documents             | Text         | Processors       | Google Docs         | gdoc                                                  | |
-Documents             | Text         | Processors       | Apple Pages         | pages                                                 | |
-Documents             | Text         | Processors       | Microsoft Word      | doc\|docx                                             | |
+Programming Language  |              | JavaScript       | JavaScript          | js\|cjs\|mjs\|iced\|liticed\|coffee\|litcoffee\|ls\|es\|es6\|jsx\|sjs\|eg\|js.map | |
+Programming Language  | Markup       | HTML             | HTML                | html\|htm                                             | |
+Programming Language  | Markup       | CSS              | CSS                 | css\|scss\|less                                       | |
+Programming Language  |              | Python           | Python              | py\|py3\|pyo\|pyx\|pyw\|whl\|pyd                      | |
+Programming Language  |              | SQL              | SQL                 | sql\|sqllite\|sqllite3\|mysql                         | |
+Programming Language  |              | TypeScript       | TypeScript          | ts\|tsx                                               | |
+Programming Language  |              | Bash/Shell       | Bash/Shell          | sh\|zsh\|bash\|profile\|bashrc\|zshrc                 | |
+Programming Language  |              | Java             | Java                | java\|iml\|jar\|dpj\|xrb\|aidl                        | |
+Programming Language  |              | C#               | C#                  | cs\|csproj                                            | |
+Programming Language  |              | C++              | C++                 | cpp\|cxx\|cc\|hpp\|hxx                                | |
+Programming Language  |              | C                | C                   | c\|h                                                  | |
+Programming Language  |              | PHP              | PHP                 | php                                                   | |
+Programming Language  |              | PowerShell       | PowerShell          | psl                                                   | |
+Programming Language  |              | Go               | Go                  | go                                                    | |
+Programming Language  |              | Rust             | Rust                | rs\|rlib\|rst                                         | |
+Programming Language  |              | Kotlin           | Kotlin              | kt\|kts\|ktm                                          | |
+Programming Language  |              | Ruby             | Ruby                | rb\|erb\|gem\|gemspec                                 | |
+Programming Language  |              | Lua              | Lua                 | lua                                                   | |
+Programming Language  |              | Dart             | Dart                | dart                                                  | |
+Programming Language  |              | Assembly         | Assembly            | asm                                                   | |
+Programming Language  |              | Swift            | Swift               | swift                                                 | |
+Programming Language  |              | R                | R                   | Rd\|Rr\|Rprofile\|Rdata\|Rhistory\|Rproj\|NAMESPACE\|DESCRIPTION | |
+Programming Language  |              | Visual Basic     | Visual Basic        | vb\|bas\|cls                                          | |
+Programming Language  |              | MATLAB           | MATLAB              | M\|MAT                                                | |
+Programming Language  |              | Groovy           | Groovy              | groovy\|gvy\|gy\|gsh                                  | |
+Programming Language  |              | Delphi           | Delphi              | pas                                                   | |
+Programming Language  |              | Scala            | Scala               | scala                                                 | |
+Programming Language  |              | Perl             | Perl                | pl                                                    | |
+Programming Language  |              | Elixir           | Elixir              | ex                                                    | |
+Programming Language  |              | Objective-C      | Objective-C         | m\|mm                                                 | |
+Programming Language  |              | Haskell          | Haskell             | hs\|lhs                                               | |
+Programming Language  |              | GDScript         | GDScript            | gd                                                    | |
+Programming Language  |              | Lisp             | Lisp                | el\|lisp\|elc                                         | |
+Programming Language  |              | Solidity         | Solidity            | sol                                                   | |
+Programming Language  |              | Clojure          | Clojure             | cljs\|cljc\|clj                                       | |
+Programming Language  |              | Julia            | Julia               | jl                                                    | |
+Programming Language  |              | Erlang           | Erlang              | erl                                                   | |
+Programming Language  |              | F#               | F#                  | fsx                                                   | |
+Programming Language  |              | Fortran          | Fortran             | f[hi]\|[fF]\|[fF]77\|[fF]9[0-9]\|fortran\|forth\|f90  | |
+Programming Language  |              | Zig              | Zig                 | zig                                                   | |
+Programming Language  |              | Ada              | Ada                 | ad[abs]                                               | |
+Programming Language  |              | OCaml            | OCaml               | aug\|mli\|ml\|aug                                     | |
+Programming Language  |              | Apex             | Apex                | apex                                                  | |
+Programming Language  |              | Cobol            | Cobol               | cob\|cbl\|pco\|fd\|sel\|cpy                           | |
+Programming Language  |              | SAS              | SAS                 | sas                                                   | |
+Programming Language  |              | Crystal          | Crystal             | cr                                                    | |
+Programming Language  |              | D                | D                   | d                                                     | |
+Programming Language  |              | Kotlin           | Kotlin              | kt\|kt                                                | |
+Programming Language  |              | Unity            | Unity               | unity\|unityweb\|unitypackage\|unityproj\|unity3d\|asset\|dwlt\|resource | |
+Programming Language  |              | APL              | APL                 | apl\|dyalog                                           | |
+Programming Language  |              | Nim              | Nim                 | nim\|nims\|nimble                                     | |
+Programming Language  |              | Android          | Android             | aidl                                                  | Java Source Code|
+Programming Language  |              | Forth            | Forth               | 4th                                                   | |
+Programming Language  |              | Vala             | Vala                | vala                                                  | |
+Documents             | Text File    | Plain            | Plain               | txt\|nomedia\|ot\|info                                | |
+Documents             | Text File    | LaTeX            | LaTeX               | tex\|bib\|sty\|cls                                    | |
+Documents             | Text File    | Binary           | BIN                 | bin                                                   | |
+Documents             | Text File    | Historical       | General Log         | log                                                   | |
+Documents             | Text File    | Historical       | HTTP Performance    | har                                                   | |
+Documents             | Text File    | Historical       | Apple Crash         | crash                                                 | |
+Documents             | Text File    | Styled           | RTF                 | rtf                                                   | |
+Documents             | Text File    | Instruction      | Print to File       | prn                                                   | |
+Documents             | Text File    | Certified Doc    | EDOC                | edoc                                                  | |
+Documents             | Text File    | Processors       | OpenDoc Text        | ott\|odt                                              | |
+Documents             | Text File    | Processors       | Google Docs         | gdoc                                                  | |
+Documents             | Text File    | Processors       | Apple Pages         | pages                                                 | |
+Documents             | Text File    | Processors       | Microsoft Word      | doc\|docx                                             | |
 Documents             | Message      | Email            | Outlook             | pst\|msg                                              | |
 Documents             | Message      | Email            | Generic Email       | eml                                                   | |
 Documents             | Message      | Email            | Email Attachments   | hqx                                                   | |
+Documents             | Message      | Email            | Email Signatures    | p7s                                                   | |
 Documents             | Message      | Text Messages    | WhatsApp            | crypt14                                               | |
 Documents             | Presentations| Microsoft        | PowerPoint          | ppt\|pptx                                             | |
 Documents             | Presentations| Google           | Slides              | gslides                                               | |
@@ -89,24 +91,28 @@ Documents             | Calendar     | Calendar         | Calendar            | 
 Documents             | “Markup”     | Active Server    | Active Server Page  | asp\|aspx                                             | |
 Documents             | “Markup”     | Mime HTML        | Mime HTML           | mth\|mhtml                                            | |
 Documents             | “Markup”     | Razor Webpage    | Razor Webpage       | cshtml\|vbhtml                                        | |
+Documents             | "Markup"     | XFire            | XFire               | tmpl                                                  | |
+Documents             | "Markup"     | RST              | RST                 | rst\|ReST\|reST                                       | |
+Documents             | "Markup"     | Typst            | Typst               | typ                                                   | |
 Data                  | Spreadsheets | Microsoft        | Excel               | xls\|xlxs\|xlsm                                       | Workbook |
 Data                  | Spreadsheets | Microsoft        | Excel               | xltx\|xltm                                            | Template |
 Data                  | Spreadsheets | Microsoft        | Excel               | xlam\|xla                                             | Add-ins  |
 Data                  | Spreadsheets | Microsoft        | Excel/Access        | dif                                                   | |
 Data                  | Spreadsheets | OpenDocument     | OpenDoc Spread      | ods                                                   | |
 Data                  | Spreadsheets | Apple            | Apple Numbers       | numbers                                               | |
-Data                  | Database     | Generic          | GenericDB           | dbf                                                   | |
+Data                  | Database     | Generic          | GenericDB           | dbf\|pdb                                              | |
 Data                  | Database     | Apple            | iTunesDB            | itdb                                                  | |
 Data                  | Database     | Apple            | MusicDB             | musicdb                                               | |
 Data                  | Database     | Netflix          | NetflixDB           | nfi                                                   | |
 Data                  | Database     | Microsoft        | Access              | mdb\|accdb                                            | |
 Data                  | Database     | Microsoft        | Project             | mpp                                                   | |
+Data                  | Database     | Game Database    | FORGE               | forge                                                 | |
 Data                  | Text Data    | Microsoft        | CSV                 | csv                                                   | |
 Multimedia            | Images       | 2D               | Clipart             | emf\|wmf                                              | Microsoft |
-Multimedia            | Images       | 2D               | SVG                 | svg                                                   | |
+Multimedia            | Images       | 2D               | Generic             | svg\|png\|jpg\|jpeg\|ico\|vda\|avif\|gif              | |
 Multimedia            | Images       | 3D               | 3D Models           | gltf\|step\|stp\|stl                                  | |
 Multimedia            | Audio Only   | Generic          | Sound               | snd                                                   | |
-Multimedia            | Audio Only   | Generic          | WAV                 | wav                                                   | |
+Multimedia            | Audio Only   | Generic          | WAV                 | wav\|mp3\|mp2\|zpl                                    | |
 Multimedia            | Audio Only   | Generic          | AIFF                | aif\|aiff\|aifc                                       | |
 Multimedia            | Audio Only   | Generic          | FLAC                | flac                                                  | |
 Multimedia            | Audio Only   | Generic          | MIDI                | midi                                                  | |
@@ -115,11 +121,9 @@ Multimedia            | Audio Only   | Generic          | MPEG-4              | 
 Multimedia            | Audio Only   | Microsoft        | Microsoft Audio     | asf                                                   | |
 Multimedia            | Audio Only   | Games            | Nintendo Music      | miniusf                                               | |
 Multimedia            | Audio Only   | Games            | Sega Music          | gym                                                   | |
-Multimedia            | Video/Audio  | Generic          | MPEG                | mpg\|mpeg                                             | |
-Multimedia            | Video/Audio  | Generic          | Matroska            | mkv                                                   | |
+Multimedia            | Video/Audio  | Generic          | Generic Video       | mpg\|mpeg\|mkv\|meta\|mp4\|webm\|avi\|3gp             | |
 Multimedia            | Video/Audio  | Google           | GooglePlay          | wvm\|gvi                                              | |
 Multimedia            | Video/Audio  | Apple            | QuickTime           | mov\|qt                                               | |
-Multimedia            | Video/Audio  | Microsoft        |                     | avi                                      | Check this | |
 Multimedia            | Video/Audio  | CRI              | Middleware          | cpk                                                   | |
 Multimedia            | Video/Audio  | Games            | Sega Video          | film_cpk                                              | |
 Multimedia            | Video/Audio  | Netflix          | Offline             | nfv                                                   | |
@@ -131,6 +135,7 @@ Multimedia            | Tools        | Subtitles        | General Subtitles   | 
 Multimedia            | Tools        | Subtitles        | Netflix Subtitles   | nfs                                                   | |
 Multimedia            | Tools        | Adobe            | Illustrator         | ai\|ps                                                | |
 Multimedia            | Tools        | Adobe            | Dreamweaver         | dwt                                                   | |
+Multimedia            | Tools        | Adobe            | Photoshop           | psd                                                   | |
 Compressed Files      |              | Zipped           | ZIP                 | zip                                                   | |
 Compressed Files      |              | Zipped           | GNU                 | gzip\|gz                                              | |
 Compressed Files      |              | Tar              | TAR                 | tar                                                   | |
@@ -141,3 +146,8 @@ Other                 | IDE          | Intellisense     | IPCH                | 
 Other                 | Resources    | Microsoft        | RC                  | rc                                                    | |
 Other                 | Resources    | Microsoft        | RES                 | res                                                   | |
 Other                 | Executables  | Exexcutables     | EXE                 | exe                                                   | | 
+Other                 | Configuration| Configuration    | CONFIG              | config                                                | |
+Other                 | Cache        | Cache            | CAHCE               | cache                                                 | |
+Other                 | Packages     | NuGet            | NuGet Package       | nupkg                                                 | |
+Other                 | Packages     | Manifest         | MANIFEST            | manifest\|vrmanifest                                  | |
+Other                 | DOS          | DOS              | DOS                 | bat                                                   | |
