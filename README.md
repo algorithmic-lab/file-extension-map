@@ -17,7 +17,7 @@ Programming Language  |              | Java             | Java                | 
 Programming Language  |              | C#               | C#                  | cs\|csproj                                            | |
 Programming Language  |              | C++              | C++                 | cpp\|cxx\|cc\|hpp\|hxx                                | |
 Programming Language  |              | C                | C                   | c\|h                                                  | |
-Programming Language  |              | PHP              | PHP                 | php                                                   | |
+Programming Language  |              | PHP              | PHP                 | php\|twig                                             | |
 Programming Language  |              | PowerShell       | PowerShell          | psl                                                   | |
 Programming Language  |              | Go               | Go                  | go                                                    | |
 Programming Language  |              | Rust             | Rust                | rs\|rlib\|rst                                         | |
