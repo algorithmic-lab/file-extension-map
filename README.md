@@ -7,7 +7,7 @@ CI/CD                 |              | Makefile         | Makefile            | 
 CI/CD                 |              | Docker           | Docker              | compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml| |
 CI/CD                 |              | CMake            | CMake               | cmake\|cmake.txt\|cmakelists.txt\|cmakepresets.json   | |
 Programming Language  |              | JavaScript       | JavaScript          | js\|cjs\|mjs\|iced\|liticed\|coffee\|litcoffee\|ls\|es\|es6\|jsx\|sjs\|eg\|js.map | |
-Programming Language  | Markup       | HTML             | HTML                | html\|htm                                             | |
+Programming Language  | Markup       | HTML             | HTML                | html\|htm|\haml                                             | |
 Programming Language  | Markup       | CSS              | CSS                 | css\|scss\|less                                       | |
 Programming Language  |              | Python           | Python              | py\|py3\|pyo\|pyx\|pyw\|whl\|pyd                      | |
 Programming Language  |              | SQL              | SQL                 | sql\|sqllite\|sqllite3\|mysql                         | |
