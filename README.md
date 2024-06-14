@@ -109,7 +109,7 @@ Data                  | Database     | Microsoft        | Project             | 
 Data                  | Database     | Game Database    | FORGE               | forge                                                 | |
 Data                  | Text Data    | Microsoft        | CSV                 | csv                                                   | |
 Multimedia            | Images       | 2D               | Clipart             | emf\|wmf                                              | Microsoft |
-Multimedia            | Images       | 2D               | Generic             | svg\|png\|jpg\|jpeg\|ico\|vda\|avif\|gif              | |
+Multimedia            | Images       | 2D               | Generic             | svg\|png\|jpg\|jpeg\|ico\|vda\|avif\|gif|\webp              | |
 Multimedia            | Images       | 3D               | 3D Models           | gltf\|step\|stp\|stl                                  | |
 Multimedia            | Audio Only   | Generic          | Sound               | snd                                                   | |
 Multimedia            | Audio Only   | Generic          | WAV                 | wav\|mp3\|mp2\|zpl                                    | |
