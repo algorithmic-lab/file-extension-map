@@ -28,7 +28,7 @@ Programming Language  |              | C#               | C#                  | 
 Programming Language  |              | C++              | C++                 | cpp\|cxx\|cc\|hpp\|hxx                                | |
 Programming Language  |              | C                | C                   | c\|h                                                  | |
 Programming Language  |              | PHP              | PHP                 | php\|twig                                             | |
-Programming Language  |              | PowerShell       | PowerShell          | psl                                                   | |
+Programming Language  |              | PowerShell       | PowerShell          | ps1                                                   | |
 Programming Language  |              | Go               | Go                  | go                                                    | |
 Programming Language  |              | Rust             | Rust                | rs\|rlib\|rst                                         | |
 Programming Language  |              | Kotlin           | Kotlin              | kt\|kts\|ktm                                          | |
