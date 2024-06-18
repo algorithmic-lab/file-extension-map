@@ -2,7 +2,7 @@
 
 | Category            | Sub Category | Tool/Langauge    | Unique Name         | Extension names                                       | Notes       |
 --------------------- | ------------ | ---------------- |-------------------- | ------------------------------------------------------| ----------- |
-CI/CD                 |              | Git              | Git                 | gitignore\|gitkeep\|gitattributes                     | Version control system |
+CI/CD                 |              | Git              | Git                 | gitignore\|gitkeep\|gitattributes\|gitconfig\|gitignore_global\|gitmodules                     | Version control system |
 CI/CD                 |              | Makefile         | Makefile            | makefile\|mk\|makefile.am\|makefile.in                | |
 CI/CD                 |              | Docker           | Docker              | compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml| |
 CI/CD                 |              | CMake            | CMake               | cmake\|cmake.txt\|cmakelists.txt\|cmakepresets.json   | |
