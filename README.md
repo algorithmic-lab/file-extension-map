@@ -32,7 +32,7 @@ Programming Language  |              | PowerShell       | PowerShell          | 
 Programming Language  |              | Go               | Go                  | go                                                    | |
 Programming Language  |              | Rust             | Rust                | rs\|rlib\|rst                                         | |
 Programming Language  |              | Kotlin           | Kotlin              | kt\|kts\|ktm                                          | |
-Programming Language  |              | Ruby             | Ruby                | rb\|erb\|gem\|gemspec                                 | |
+Programming Language  |              | Ruby             | Ruby                | rb\|erb\|gem\|gemspec\|gemfile                                 | |
 Programming Language  |              | Lua              | Lua                 | lua                                                   | |
 Programming Language  |              | Dart             | Dart                | dart                                                  | |
 Programming Language  |              | Assembly         | Assembly            | asm                                                   | |
