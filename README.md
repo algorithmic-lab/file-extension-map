@@ -37,7 +37,7 @@ Programming Language  |              | Lua              | Lua                 | 
 Programming Language  |              | Dart             | Dart                | dart                                                  | |
 Programming Language  |              | Assembly         | Assembly            | asm                                                   | |
 Programming Language  |              | Swift            | Swift               | swift                                                 | |
-Programming Language  |              | R                | R                   | Rd\|Rr\|Rprofile\|Rdata\|Rhistory\|Rproj\|NAMESPACE\|DESCRIPTION | |
+Programming Language  |              | R                | R                   | r\|Rd\|Rr\|Rprofile\|Rdata\|Rhistory\|Rproj\|NAMESPACE\|DESCRIPTION | |
 Programming Language  |              | Visual Basic     | Visual Basic        | vb\|bas\|cls                                          | |
 Programming Language  |              | MATLAB           | MATLAB              | M\|MAT                                                | |
 Programming Language  |              | Groovy           | Groovy              | groovy\|gvy\|gy\|gsh                                  | |
