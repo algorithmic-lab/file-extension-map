@@ -19,7 +19,7 @@ Programming Language  |              | JavaScript       | TypeScript          | 
 Programming Language  |              | JavaScript       | Server-Side JavaScript          | sjs                                               | |
 Programming Language  |              | JavaScript       | NPM Ignore          | npmignore                                               | |
 Programming Language  | Markup       | HTML             | HTML                | html\|htm|\haml                                             | |
-Programming Language  | Markup       | CSS              | CSS                 | css\|scss\|less                                       | |
+Programming Language  | Markup       | CSS              | CSS                 | css\|scss\|less\|sass                                       | |
 Programming Language  |              | Python           | Python              | py\|py3\|pyo\|pyx\|pyw\|whl\|pyd                      | |
 Programming Language  |              | SQL              | SQL                 | sql\|sqllite\|sqllite3\|mysql                         | |
 Programming Language  |              | Bash/Shell       | Bash/Shell          | sh\|zsh\|bash\|profile\|bashrc\|zshrc                 | |
