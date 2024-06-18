@@ -163,3 +163,4 @@ Other                 | Cache        | Cache            | CAHCE               | 
 Other                 | Packages     | NuGet            | NuGet Package       | nupkg                                                 | |
 Other                 | Packages     | Manifest         | MANIFEST            | manifest\|vrmanifest                                  | |
 Other                 | DOS          | DOS              | DOS                 | bat                                                   | |
+Other                 | Tools          | SPSS              | SPSS                 | spv|sav                                                   | |
