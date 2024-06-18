@@ -149,6 +149,8 @@ Multimedia            | Tools        | Adobe            | Photoshop           | 
 Compressed Files      |              | Zipped           | ZIP                 | zip                                                   | |
 Compressed Files      |              | Zipped           | GNU                 | gzip\|gz                                              | |
 Compressed Files      |              | Tar              | TAR                 | tar                                                   | |
+Compressed Files      |              | Egg              | Egg                 | egg                                                   | |
+Compressed Files      |              | BZ              | BZ                 | bz\|bz2                                                   | |
 Libraries             | Dynamic Lib  | Dynamic Lib      | Dynamic Lib         | dll\|dylib                                            | |
 Libraries             | Music Lib    | Game Music Lib   | Nintendo Music Lib  | usflib                                                | |
 Libraries             | Music Lib    | Music Lib        | Apple Music Lib     | musiclibrary                                          | |
