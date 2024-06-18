@@ -3,9 +3,9 @@
 | Category            | Sub Category | Tool/Langauge    | Unique Name         | Extension names                                       | Notes       |
 --------------------- | ------------ | ---------------- |-------------------- | ------------------------------------------------------| ----------- |
 CI/CD                 |              | Git              | Git                 | gitignore\|gitkeep\|gitattributes\|gitconfig\|gitignore_global\|gitmodules                     | Version control system |
-CI/CD                 |              | Makefile         | Makefile            | makefile\|mk\|makefile.am\|makefile.in                | |
-CI/CD                 |              | Docker           | Docker              | compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml| |
-CI/CD                 |              | CMake            | CMake               | cmake\|cmake.txt\|cmakelists.txt\|cmakepresets.json   | |
+CI/CD                 |              | Makefile         | Makefile            | makefile\|mk\|**makefile.am\|makefile.in**                | |
+CI/CD                 |              | Docker           | Docker              | dockerignore\|**dockerfile\|compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml**| |
+CI/CD                 |              | CMake            | CMake               | cmake\|**cmake.txt\|cmakelists.txt\|cmakepresets.json**   | |
 Programming Language  |              | JavaScript       | JavaScript          | js\|cjs\|mjs\|iced\|liticed\|coffee\|litcoffee\|ls\|es\|es6\|jsx\|sjs\|eg\|js.map | |
 Programming Language  | Markup       | HTML             | HTML                | html\|htm|\haml                                             | |
 Programming Language  | Markup       | CSS              | CSS                 | css\|scss\|less                                       | |
