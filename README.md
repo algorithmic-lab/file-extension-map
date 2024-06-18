@@ -6,12 +6,22 @@ CI/CD                 |              | Git              | Git                 | 
 CI/CD                 |              | Makefile         | Makefile            | makefile\|mk\|**makefile.am\|makefile.in**                | |
 CI/CD                 |              | Docker           | Docker              | dockerignore\|**dockerfile\|compose.yml\|compose.yaml\|docker-compose.yml\|docker-compose.yaml**| |
 CI/CD                 |              | CMake            | CMake               | cmake\|**cmake.txt\|cmakelists.txt\|cmakepresets.json**   | |
-Programming Language  |              | JavaScript       | JavaScript          | js\|cjs\|mjs\|iced\|liticed\|coffee\|litcoffee\|ls\|es\|es6\|jsx\|sjs\|eg\|js.map | |
+Programming Language  |              | JavaScript       | JavaScript          | js\|***.js.map** | |
+Programming Language  |              | JavaScript       | Embedded JavaScript Templating          | ejs | |
+Programming Language  |              | JavaScript       | JavaScript Template          | jst | |
+Programming Language  |              | JavaScript       | CoffeeScript        | coffee\|litcoffee | |
+Programming Language  |              | JavaScript       | IcedCoffeeScript    | iced\|liticed | |
+Programming Language  |              | JavaScript       | LiveScript          | ls | |
+Programming Language  |              | JavaScript       | ECMAScript       | es\|es6\|jsx | |
+Programming Language  |              | JavaScript       | ECMAScript Modules       | mjs | |
+Programming Language  |              | JavaScript       | CommonJS       | cjs | |
+Programming Language  |              | JavaScript       | TypeScript          | ts\|tsx                                               | |
+Programming Language  |              | JavaScript       | Server-Side JavaScript          | sjs                                               | |
+Programming Language  |              | JavaScript       | NPM Ignore          | npmignore                                               | |
 Programming Language  | Markup       | HTML             | HTML                | html\|htm|\haml                                             | |
 Programming Language  | Markup       | CSS              | CSS                 | css\|scss\|less                                       | |
 Programming Language  |              | Python           | Python              | py\|py3\|pyo\|pyx\|pyw\|whl\|pyd                      | |
 Programming Language  |              | SQL              | SQL                 | sql\|sqllite\|sqllite3\|mysql                         | |
-Programming Language  |              | TypeScript       | TypeScript          | ts\|tsx                                               | |
 Programming Language  |              | Bash/Shell       | Bash/Shell          | sh\|zsh\|bash\|profile\|bashrc\|zshrc                 | |
 Programming Language  |              | Java             | Java                | java\|iml\|jar\|dpj\|xrb\|aidl                        | |
 Programming Language  |              | C#               | C#                  | cs\|csproj                                            | |
